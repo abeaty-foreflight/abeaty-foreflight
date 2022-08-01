@@ -1,16 +1,15 @@
-### Hi there 👋
+## Alex Beaty 👋
+### Developer for FliteDeck Pro X - iOS @ ForeFlight, LLC
+### About me:
+- martial arts I do:
+  - Capoeira: 2012-17, Orange-White Belt
+  - Brazilian Jiu Jitsu: 2015-2020, Blue Belt
+  - Sayoc Kali FMA: 2019-present, Apprentice Level 1
+  
+**My website** <br>
+[alexbeaty.com](https://www.alexbeaty.com/)
 
-<!--
-**abeaty-foreflight/abeaty-foreflight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My app** <br>
+[play Mancala for iPhone, a two-player online game I made!](https://apps.apple.com/us/app/mancala-fantasy-online/id1476984859)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
